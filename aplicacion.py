@@ -1,6 +1,8 @@
 import os
 #Crear archivo
 import sys
+import modulo
+
 def leer_archivo(archivo):
     archivo= open(archivo,"rt",encoding="utf8")
     leer_archivo = archivo.read()
