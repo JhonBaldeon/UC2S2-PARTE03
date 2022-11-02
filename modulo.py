@@ -30,3 +30,4 @@ def agregar_personas():
     archivoApellido.close()
     archivoDNI.close()
     
+    
